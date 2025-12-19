@@ -7,6 +7,9 @@ class Demo {
 
     String name = "ashokit";
 
+    String name ="Credit Card";
+
   }
 }
+
 
