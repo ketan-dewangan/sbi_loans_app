@@ -11,6 +11,8 @@ class Test {
         
         int k = 20;
 
+	String name = "java";
+
     }
 
     // JIRA-101
