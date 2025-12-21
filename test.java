@@ -9,5 +9,15 @@ class Test {
 
     public static void main(String[] args) {
         
+        int k = 20;
+
+    }
+
+    // JIRA-101
+    public static void m1() {
+
+        int i = 10;
+        int j = 20;
+
     }
 }
